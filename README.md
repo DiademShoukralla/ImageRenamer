@@ -1,6 +1,6 @@
 # ImageRenamer
-Image viewer and renamer for an assignment in CSC207
+Image viewer and renamer program
 
-Add and edit tags from images. Rename them to later find them in your OS using the tags!
+View Images to add and edit tags. Rename them to later find them in your OS using the tags!
 
 Run PhotoRenamer.java
